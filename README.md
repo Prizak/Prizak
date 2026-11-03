@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o João Vitor (Prizak) 👋
 
-<!--
-**Prizak/Prizak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** e futuro **Engenheiro de MLOps**.
+Gosto de construir sistemas do zero, entender como as coisas funcionam por baixo e automatizar o que for repetitivo.
 
-Here are some ideas to get you started:
+## 🎯 Foco atual
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fundamentos sólidos: Python, Linux, Git, Docker e SQL
+- Próximo passo: nuvem e infraestrutura (AWS, Kubernetes, Terraform)
+- Depois: ferramentas de ML em produção (MLflow, Airflow)
+
+## 🛠️ Tecnologias
+
+**Linguagens:** C · Java · PHP · JavaScript · SQL
+**Bancos de dados:** MySQL · SQLite
+**Ferramentas:** Git · GitHub · Linux · Docker (aprendendo)
+
+## 📚 O que já pratiquei na faculdade
+
+- CRUDs completos com PHP + MySQL (padrão MVC)
+- Programação orientada a objetos em Java
+- Modelagem de bancos de dados e SQL
+- Estruturas de dados e algoritmos
+- Engenharia de requisitos e gestão de configuração de software
+
+## 📫 Contato
+
+- LinkedIn: [João Vitor Gadbem Silva](https://www.linkedin.com/in/joao-vitor-gadbem-silva-09a595337/)
+- E-mail: joaogadbem.dev@gmail.com
