@@ -8,12 +8,12 @@ Gosto de construir sistemas do zero, entender como as coisas funcionam por baixo
 - Fundamentos sólidos: Python, Linux, Git, Docker e SQL
 - Próximo passo: nuvem e infraestrutura (AWS, Kubernetes, Terraform)
 - Depois: ferramentas de ML em produção (MLflow, Airflow)
-
+- 
 ## 🛠️ Tecnologias
 
-**Linguagens:** C · Java · PHP · JavaScript · SQL
-**Bancos de dados:** MySQL · SQLite
-**Ferramentas:** Git · GitHub · Linux · Docker (aprendendo)
+- **Linguagens:** C · Java · PHP · SQL · JavaScript (aprendendo a sintaxe)
+- **Bancos de dados:** MySQL · SQLite
+- **Ferramentas:** Git · GitHub · Linux · Docker (aprendendo)
 
 ## 📚 O que já pratiquei na faculdade
 
